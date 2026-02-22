@@ -1,5 +1,4 @@
 # Mi primer proyecto
-# Mi Primer Proyecto
 
 Este es un proyecto de práctica para aprender:
 - Git
