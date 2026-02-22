@@ -1,17 +1,26 @@
-# Mi Primer Proyecto 🚀
+# Alejandro 🚀
 
-Este proyecto fue creado para aprender y practicar:
+Ingeniero Industrial con interés en:
 
-- Git
-- GitHub
-- Flujo de trabajo profesional
-- Control de versiones
+- 📊 Análisis de Datos
+- 🐍 Programación en Python
+- 🤖 Inteligencia Artificial
+- 🌐 Desarrollo Web
+- 🚀 Tecnología e Innovación
 
-## 🛠 Tecnologías
-- Git
-- GitHub
+Actualmente estoy desarrollando proyectos para fortalecer mis habilidades en programación, análisis y automatización.
+
+## 🛠 Tecnologías en aprendizaje
+- Git & GitHub
+- Python
+- HTML, CSS, JavaScript
+- Análisis de datos con Python
+- Inteligencia Artificial
 
 ## 📌 Objetivo
-Comprender cómo crear repositorios, hacer commits y subir proyectos a la nube.
+Construir proyectos prácticos que integren tecnología, análisis y soluciones reales.
 
-Autor: Alejandro
+---
+
+📫 Contacto:  
+GitHub: https://github.com/viperone95
